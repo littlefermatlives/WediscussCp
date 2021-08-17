@@ -1,0 +1,17 @@
+.ht{
+    height : 450px;
+}
+.dt{
+    background-color: rgb(4, 243, 124);
+    text-align: center;
+    text-decoration: black;
+    padding : 10px;
+    margin-bottom : 40px;
+    margin-top : 0px;
+}
+#bq {
+    min-height: 433px;
+}
+.askquestion{
+     background-color: hsla(186, 54%, 93%, 0.747);
+}
